@@ -7,8 +7,4 @@ public class Pet {
     Gender gender;
     // 품종
     String kind;
-
-    private enum Gender {
-        M,F
-    }
 }
