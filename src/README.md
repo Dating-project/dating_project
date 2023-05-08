@@ -1,5 +1,7 @@
 # 데이팅앱
 
+토큰 : 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
+
 ## 애완동물 데이팅앱
 - 강아지끼리 매칭
   - 데이터 분류 (성별로 구분)
